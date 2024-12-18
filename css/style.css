@@ -1,0 +1,95 @@
+.header {
+  background-color: #f0fff0;
+  margin-bottom: 110px;
+}
+.hero {
+  margin-top: 50px;
+}
+.container {
+  padding: 10px 60px;
+}
+
+li,
+button {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: #21b573;
+  color: #fff;
+  padding: 8px 18px;
+  border-radius: 16px;
+}
+img {
+  max-width: 100%;
+}
+
+.icon-img {
+  max-width: 70px;
+}
+
+.green {
+  color: #21b573;
+}
+
+.icon {
+  width: 198px;
+}
+
+.orange {
+  color: #fd511a;
+}
+
+h1 {
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 70px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.items {
+  margin: 15px;
+  padding: 12px 6px;
+  background-color: #f8fffb;
+}
+.items-2 {
+  box-shadow: 8px 8px 10px lightgray;
+  background-color: #fff;
+}
+
+.small-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.card {
+  border: none;
+  margin: 10px;
+  box-shadow: 8px 8px 10px lightgray;
+}
+
+.man {
+  width: 120px;
+}
+
+.footer {
+  background-color: #282531;
+  color: #fff;
+}
+
+footer ul {
+  list-style: none;
+}
+footer li {
+  margin-top: 12px;
+  cursor: pointer;
+}
