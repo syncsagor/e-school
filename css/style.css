@@ -37,12 +37,21 @@ img {
   color: #21b573;
 }
 
+.orange {
+  color: #fd511a;
+}
 .icon {
   width: 198px;
 }
 
-.orange {
-  color: #fd511a;
+@media screen and (max-width: 400px) {
+  .icon {
+    width: 100px;
+  }
+  h1 {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
 }
 
 h1 {
